@@ -1,1 +1,1 @@
-<?php include_once("hokudo.html");?>
+<?php include_once("index.html");?>
